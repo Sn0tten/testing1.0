@@ -144,14 +144,8 @@ a.repeat:hover {
 }
 
 
-p {
-  position:fixed;
-  width:100%;
-  bottom:30px;
-  font-size:12px;
-  color:#999;
-  margin-top:200px;
-}
+/* Animation One */
+
 .one span {
 	color: #24a8e6;
 	opacity: 0;
@@ -169,3 +163,4 @@ p {
 		opacity: 1;
 	}
 }
+/* End of Animation One */
